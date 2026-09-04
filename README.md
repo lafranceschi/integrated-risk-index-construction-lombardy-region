@@ -29,6 +29,7 @@ scripts/
 01_risk_data/
 - a_risk_wildefire/
   - 1_risk_wildfire_normalisation.py
+  - 2_risk_wildfire_sens_an.py
 
 02_hazard_data/
 - a_hazard_seismic/
@@ -39,14 +40,17 @@ scripts/
   - 2_hazard_hydraulic_haz_calculation.py
   - 3_hazard_hydraulic_sens_an
   - 4_hazard_hydraulic_damage_score_adding.py
+  - 5_hazard_hydraulic_sens_an_eq_w.py
 - c_hazard_hydrogeological/
   - 1_hazard_hydrogeological_haz_calculation.py
   - 2_hazard_hydrogeological_sens_an.py
   - 3_hazard_hydrogeological_damage_score_adding.py
+  - 4_hazard_hydgeological_sens_an_eq_w
 - d_hazard_avalanche/
   - 1_hazard_avalanche_haz_calculation.py
   - 2_hazard_avalanche_sens_an.py
   - 3_hazard_avalanche_damage_score_adding.py
+  - 4_hazard_avalanche_sens_an_eq_w
 
 03_damage_data/
 - a_adv_w_fen/
