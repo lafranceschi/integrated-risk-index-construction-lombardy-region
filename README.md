@@ -1,5 +1,5 @@
 # integrated-risk-index-construction
-Open-source Python scripts and GIS workflows for constructing an integrated municipal risk index to support local risk assessment and decision-making. The repository is part of the work entitled "A methodology for assemble municipal-scale integrated risk index to support civil protection planning: a case-study from Lombardy (N-Italy)" which is currently under submission.
+Open-source Python scripts and GIS workflows for constructing an integrated municipal risk index to support local risk assessment and decision-making. The repository is part of the work entitled "A methodology for developing a municipal-scale integrated risk index to support civil protection planning: a case study from Lombardy (N-Italy)" which is currently under submission.
 
 ## Municipal Risk Index – Computational Workflow
 
